@@ -19,49 +19,42 @@
   ## 🛠️ Technical Arsenal
 
   <div align="center">
-    
-
-  <h3>💻 Programming Languages</h3>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" style="margin: 10px;" />
-
-  <h3>📱 Mobile & Frontend Development</h3>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Android" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="65" height="65" style="margin: 10px;" />
-
-  <h3>⚡ Backend Development</h3>
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="65" height="65" style="margin: 10px;" />
-
-  <h3>🗄️ Database Systems</h3>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" width="65" height="65" style="margin: 10px;" />
-
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" style="margin: 10px;" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" width="65" height="65" style="margin: 10px;" />
-
-  <h3>🔧 Development Tools</h3>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" width="65" height="65" style="margin: 10px;" />
-
-  <h3>🎨 Design Tools</h3>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="65" height="65" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" alt="Photoshop" width="65" height="65" style="margin: 10px;" />
+    <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <!-- Programming Languages -->
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=ruby&theme=dark" alt="Ruby" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Android" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" alt="Photoshop" width="65" height="65" style="margin: 10px;" />
+    </div>
 
   </div>
 
@@ -151,7 +144,7 @@
   <div align="center">
     
   <!-- ### 👀 Profile Views
-  [![Profile Views](https://visitcount.itsvg.in/api?id=sirius54817&icon=6&color=6)](https://visitcount.itsvg.in) -->
+  [![Profile Views](https://visitcount.itsvg.in/api?id=sirius54817&icon=6&color=6)](https://visitcount.itsvg.in) -->  
 
   ### ⚡ Fun Fact
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=When+I'm+not+coding%2C+I'm+probably+thinking+about+coding!;Coffee+%2B+Code+%3D+Perfect+Day!;Turning+caffeine+into+secure+applications!" alt="Fun Facts" />
