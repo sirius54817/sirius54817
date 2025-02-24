@@ -55,4 +55,5 @@
 ---
 
 ## 🐍 Contributions  
-![Snake animation](https://github.com/sirius54817/sirius54817/raw/refs/heads/main/github-user-contribution.svg)  
+![Snake animation](https://github.com/solstxce/solstxce/raw/refs/heads/main/github-user-contribution.svg)
+
