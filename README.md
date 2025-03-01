@@ -57,6 +57,4 @@
 ## 🏆 GitHub Achievements
 ![Trophies](https://github-trophies.vercel.app/?username=sirius54817&theme=radical&margin-w=4&no-bg=true)
 
-## 🌱 Contribution Graph
-![Snake animation](https://github.com/solstxce/solstxce/raw/refs/heads/main/github-user-contribution.svg)
 
