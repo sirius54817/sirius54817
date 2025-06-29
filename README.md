@@ -61,6 +61,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sirius54817&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Contribution Graph
-![Snake animation](https://github.com/solstxce/solstxce/raw/refs/heads/main/github-user-contribution.svg)
-
