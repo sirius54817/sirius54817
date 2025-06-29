@@ -1,63 +1,107 @@
-# Sirius54817 - Software & Security Engineer
+<div align="center">
+  
+# 🚀 Sirius54817 - Software & Security Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Vice+President%2C+OWASP+Club;Cybersecurity+%26+Open+Source+Expert;Machine+Learning+Enthusiast;Android+Development+Specialist;Linux+%26+Web+Security+Expert" alt="Typing SVG" />
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 👨‍💻 Professional Summary
-- Vice President, OWASP Club
-- Specializing in Cybersecurity & Open Source Development
-- Machine Learning & Android Development Enthusiast
-- Linux & Web Security Expert
+- 🔐 Vice President, OWASP Club
+- 💻 Specializing in Cybersecurity & Open Source Development
+- 🤖 Machine Learning & Android Development Enthusiast
+- 🐧 Linux & Web Security Expert
 
-## 🛠️ Technical Expertise
+<br clear="both">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+## 🛠️ Technical Arsenal
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+<div align="center">
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,dart,c,bash,html,markdown&theme=dark" />
 
-### Database Systems
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+### 📱 Mobile Development  
+<img src="https://skillicons.dev/icons?i=android,flutter,androidstudio&theme=dark" />
 
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+### ⚡ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
 
-### Development Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+### 🗄️ Database Systems
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgresql,mysql&theme=dark" />
 
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=gcp,azure,heroku,docker&theme=dark" />
 
-## � GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sirius54817&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sirius54817&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirius54817&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vim&theme=dark" />
+
+### 🎨 Design Tools
+<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sirius54817&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirius54817&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirius54817&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🏆 GitHub Achievements
-![Trophies](https://github-trophies.vercel.app/?username=sirius54817&theme=radical&margin-w=4&no-bg=true)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sirius54817&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Current Focus
+
+```javascript
+const sirius54817 = {
+    currentFocus: ["Cybersecurity Research", "Open Source Contributions"],
+    technologies: ["Python", "Java", "Flutter", "Django", "Node.js"],
+    architecture: ["Microservices", "Event-Driven", "Serverless"],
+    currentlyLearning: ["Advanced Machine Learning", "Cloud Security", "DevSecOps"],
+    askMeAbout: ["Web Security", "Android Development", "System Architecture"],
+    funFact: "I debug code faster than I debug my life! 🐛💻"
+};
+```
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirius-ar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsai54817@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirius54817)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sirius54817&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  
+### 👀 Profile Views
+[![Profile Views](https://visitcount.itsvg.in/api?id=sirius54817&icon=6&color=6)](https://visitcount.itsvg.in)
+
+### ⚡ Fun Fact
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=When+I'm+not+coding%2C+I'm+probably+thinking+about+coding!;Coffee+%2B+Code+%3D+Perfect+Day!;Turning+caffeine+into+secure+applications!" alt="Fun Facts" />
+
+</div>
