@@ -150,8 +150,8 @@
 
   <div align="center">
     
-  ### 👀 Profile Views
-  [![Profile Views](https://visitcount.itsvg.in/api?id=sirius54817&icon=6&color=6)](https://visitcount.itsvg.in)
+  <!-- ### 👀 Profile Views
+  [![Profile Views](https://visitcount.itsvg.in/api?id=sirius54817&icon=6&color=6)](https://visitcount.itsvg.in) -->
 
   ### ⚡ Fun Fact
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=When+I'm+not+coding%2C+I'm+probably+thinking+about+coding!;Coffee+%2B+Code+%3D+Perfect+Day!;Turning+caffeine+into+secure+applications!" alt="Fun Facts" />
