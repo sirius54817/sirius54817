@@ -1,5 +1,5 @@
 <div style="position: absolute; top: 20px; right: 20px; z-index: 10;">
-  <img src="IMAGE_URL" alt="Logo" width="100" height="100" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 0 10px #000;" />
+  <img src="./logo.jpeg" alt="Logo" width="100" height="100" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 0 10px #000;" />
 </div>
 
   <div align="center">
