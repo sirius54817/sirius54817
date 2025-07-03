@@ -1,3 +1,7 @@
+<div style="position: absolute; top: 20px; right: 20px; z-index: 10;">
+  <img src="IMAGE_URL" alt="Logo" width="100" height="100" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 0 10px #000;" />
+</div>
+
   <div align="center">
     
   # 🚀 Sirius54817 - Software & Security Engineer
@@ -97,7 +101,7 @@
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>
-        <b>� Technologies</b><br>
+        <b> Technologies</b><br>
         <sub>Python, Java, Flutter,<br>Django, Node.js</sub>
       </td>
       <td align="center">
