@@ -135,6 +135,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://thesirius.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="35" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sirius54817">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="75" height="75" style="filter: drop-shadow(0 0 10px #00D4FF); margin: 10px;" />
   </a>
