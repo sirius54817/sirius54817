@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="65" height="65" style="margin: 10px;" />
     <img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Android" width="65" height="65" style="margin: 10px;" />
     <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="65" height="65" style="margin: 10px;" />
     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" style="margin: 10px;" />
     <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" width="65" height="65" style="margin: 10px;" />
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="65" height="65" style="margin: 10px;" />
