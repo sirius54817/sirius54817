@@ -6,14 +6,14 @@
     
   # 🚀 Sirius54817 - Software & Security Engineer
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Vice+President%2C+OWASP+Club;Cybersecurity+%26+Open+Source+Expert;Machine+Learning+Enthusiast;Android+Development+Specialist;Linux+%26+Web+Security+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=President%2C+OWASP+Club;Cybersecurity+%26+Open+Source+Expert;Machine+Learning+Enthusiast;Android+Development+Specialist;Linux+%26+Web+Security+Expert" alt="Typing SVG" />
 
   </div>
 
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
   ## 👨‍💻 Professional Summary
-  - 🔐 Vice President, OWASP Club
+  - 🔐 President, OWASP Club
   - 💻 Specializing in Cybersecurity & Open Source Development
   - 🤖 Machine Learning & Android Development Enthusiast
   - 🐧 Linux & Web Security Expert
@@ -147,7 +147,14 @@
   
   </div>
 
-  ---
+  <div align="center">
+    <div style="position: relative; margin: 30px 0; height: 20px;">
+      <div style="position: absolute; top: 50%; left: 0; right: 0; height: 2px; background: linear-gradient(to right, transparent, #00D4FF 20%, #00FFD4 50%, #00D4FF 80%, transparent); transform: translateY(-50%);"></div>
+      <div style="position: absolute; top: 50%; left: 50%; width: 8px; height: 8px; background: radial-gradient(circle, #00FFD4, #00D4FF); border-radius: 50%; transform: translate(-50%, -50%); box-shadow: 0 0 15px #00D4FF;"></div>
+      <div style="position: absolute; top: 50%; left: 25%; width: 4px; height: 4px; background: #00D4FF; border-radius: 50%; transform: translate(-50%, -50%); opacity: 0.7;"></div>
+      <div style="position: absolute; top: 50%; left: 75%; width: 4px; height: 4px; background: #00D4FF; border-radius: 50%; transform: translate(-50%, -50%); opacity: 0.7;"></div>
+    </div>
+  </div>
 
   <div align="center">
     
